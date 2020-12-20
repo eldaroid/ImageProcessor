@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/eldaroid/Desktop/ios/ImageProcessor.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=241&amp;EndingColumnNumber=11&amp;EndingLineNumber=7&amp;StartingColumnNumber=11&amp;StartingLineNumber=7&amp;Timestamp=630186078.849565"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/eldaroid/Desktop/ios/ImageProcessor.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=60&amp;EndingColumnNumber=46&amp;EndingLineNumber=2&amp;StartingColumnNumber=46&amp;StartingLineNumber=2&amp;Timestamp=630186078.849764"
+         lockedSize = "{175, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/eldaroid/Desktop/ios/ImageProcessor.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=60&amp;EndingColumnNumber=46&amp;EndingLineNumber=2&amp;StartingColumnNumber=46&amp;StartingLineNumber=2&amp;Timestamp=630186078.849905"
+         lockedSize = "{382, 276}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/eldaroid/Desktop/ios/ImageProcessor.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=2841&amp;EndingColumnNumber=0&amp;EndingLineNumber=99&amp;StartingColumnNumber=0&amp;StartingLineNumber=98&amp;Timestamp=630186078.850034"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/eldaroid/Desktop/ios/ImageProcessor.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=2841&amp;EndingColumnNumber=0&amp;EndingLineNumber=99&amp;StartingColumnNumber=0&amp;StartingLineNumber=98&amp;Timestamp=630186078.850145"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/eldaroid/Desktop/ios/ImageProcessor.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=2803&amp;EndingColumnNumber=17&amp;EndingLineNumber=96&amp;StartingColumnNumber=8&amp;StartingLineNumber=96&amp;Timestamp=630186078.8502541"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/eldaroid/Desktop/ios/ImageProcessor.playground#CharacterRangeLen=41&amp;CharacterRangeLoc=2753&amp;EndingColumnNumber=0&amp;EndingLineNumber=95&amp;StartingColumnNumber=16&amp;StartingLineNumber=92&amp;Timestamp=630186078.850467"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
