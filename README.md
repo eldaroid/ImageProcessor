@@ -17,22 +17,22 @@ We can use 5 types of filtration:
 
 ## Apply bright method
 
-![alt text]()
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/brightnessProcessing%20.png)
 
 ## Apply blur method
 
-![alt text]()
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/blurProcessing.png)
 
 ## Apply green method
 
-![alt text]()
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/greenProcessing.png)
 
 ## Apply blue method
 
-![alt text]()
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/blueProcessing.png)
 
 ## Apply red method
 
-![alt text]()
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/redProcessing.png)
 
 
