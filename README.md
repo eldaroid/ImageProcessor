@@ -3,6 +3,10 @@ Basics of image processing on iOS via raw bitmap modification. Process the image
 
 ## The project applies filters to the image
 
+We can use 5 types of filtration:
+
+
+
 photo before processing
 
 ![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/switzerland.jpg)
