@@ -5,7 +5,7 @@ Basics of image processing on iOS via raw bitmap modification. Process the image
 
 photo before processing
 
-![alt text](
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/switzerland.jpg)
 
 photo after processing
 
