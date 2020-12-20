@@ -101,6 +101,22 @@ public class apllied{
         }
         return (myRGBA)
     }
+    func blur(image:UIImage, radius:Int) -> RGBAImage {
+       let context = CIContext(options: nil)
+       let blurFilter = CIFilter(name: "CIGaussianBlur")
+       let ciImage = CIImage(image: image)
+       blurFilter!.setValue(ciImage, forKey: kCIInputImageKey)
+       blurFilter!.setValue(radius, forKey: kCIInputRadiusKey)
+
+       let cropFilter = CIFilter(name: "CICrop")
+       cropFilter!.setValue(blurFilter!.outputImage, forKey: kCIInputImageKey)
+       cropFilter!.setValue(CIVector(cgRect: ciImage!.extent), forKey: "inputRectangle")
+
+       let output = cropFilter!.outputImage
+       let cgimg = context.createCGImage(output!, from: output!.extent)
+       let processedImage = UIImage(cgImage: cgimg!)
+       return RGBAImage(image: processedImage)!
+     }
 }
 
 class ImageProcessor: apllied {
@@ -132,6 +148,9 @@ class ImageProcessor: apllied {
         else if (method == "bright"){
             return (apllied().brightness(percentageOfBright: persentageOfApply))
         }
+        else if (method == "blur"){
+            return (apllied().blur(image: image , radius: persentageOfApply / 5))
+        }
         else {
             return (apllied().defaultFilter())
         }
@@ -140,5 +159,5 @@ class ImageProcessor: apllied {
 
 var myImage = ImageProcessor(avgRed: avgRed, avgGreen: avgGreen, avgBlue: avgBlue)
 
-let test = myImage.apply(method: "bright", persentageOfApply: 50).toUIImage()
+let test = myImage.apply(method: "blur", persentageOfApply: 50).toUIImage()
 
