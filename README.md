@@ -9,4 +9,4 @@ photo before processing
 
 photo after processing
 
-![alt text](
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/afterProcessing.png)
