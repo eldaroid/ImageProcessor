@@ -4,16 +4,24 @@ Basics of image processing on iOS via raw bitmap modification. Process the image
 ## The project applies filters to the image
 
 We can use 5 types of filtration:
-* bright method
-* blur method
-* green method
-* blue method
-* red method
+* bright method - increases the brightness of the photo as a percentage
+* blur method - applies photo blurring
+* green method - enhances the percentage of green
+* blue method - enhances the percentage of blue
+* red method - enhances the percentage of red
 
 
 ### Benchmark photo:
 
 ![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/switzerland.jpg)
+
+## Apply blue method
+
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/blueProcessing.png)
+
+## Apply red method
+
+![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/redProcessing.png)
 
 ## Apply bright method
 
@@ -27,12 +35,5 @@ We can use 5 types of filtration:
 
 ![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/greenProcessing.png)
 
-## Apply blue method
-
-![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/blueProcessing.png)
-
-## Apply red method
-
-![alt text](https://github.com/eldaroid/ImageProcessor/blob/master/redProcessing.png)
 
 
