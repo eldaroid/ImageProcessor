@@ -42,3 +42,4 @@ for y in 0..<myRGBA.height{
 
 let newImage2 = myRGBA.toUIImage()
         
+newImage2
