@@ -4,7 +4,11 @@ Basics of image processing on iOS via raw bitmap modification. Process the image
 ## The project applies filters to the image
 
 We can use 5 types of filtration:
-
+* bright metod
+* blur metod
+* green method
+* blue method
+* red method
 
 
 photo before processing
